@@ -2,7 +2,7 @@
 
 The exercise is to create an autocomplete country dropdown box within this Javascript and create-react-app skeleton.
 
-The goal is to discuss what you're doing as you code. It should take about one hour.
+The solution should use the latest React version
 
 ## Spec
 
