@@ -2,7 +2,7 @@
 
 The exercise is to create an autocomplete country dropdown box within this Javascript and create-react-app skeleton.
 
-The solution should use the latest React version
+The solution should use the latest React version. TypeScript is welcome,
 
 ## Spec
 
